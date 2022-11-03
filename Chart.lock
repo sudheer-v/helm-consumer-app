@@ -1,0 +1,6 @@
+dependencies:
+- name: audittail
+  repository: file://../audittail
+  version: 1.0.0
+digest: sha256:f9fa48a85506897b4a2624a0b7cd67da0d10c44132d2b5160691b2679526fafb
+generated: "2022-11-03T21:42:50.270447513Z"
